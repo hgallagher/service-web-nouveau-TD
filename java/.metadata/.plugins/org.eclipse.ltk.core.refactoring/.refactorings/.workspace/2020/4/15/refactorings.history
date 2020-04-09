@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;cfx-app-client&apos;" deleteContents="false" description="Delete resource &apos;cfx-app-client&apos;" element1="/cfx-app-client" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1586421590846"/>
+</session>
